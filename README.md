@@ -45,8 +45,6 @@ Developed a streaming pipeline via Kafka to predict accident severity, storing r
 - **Tools**: PySpark, Logistic Regression, Gradient Boost, Random Forest, MLflow, Kafka
 - **Impact**: Improved real-time response capabilities in accident prediction pipelines.
 
-![Accident Severity Prediction](assets/img/accident_severity.png)
-
 ### Value-Based Customer Segmentation  
 [GitHub Repository](https://github.com/avsk80/Olist-Customer-segmentation)
 
@@ -80,11 +78,3 @@ Built an end-to-end model predicting taxi trip durations, incorporating data ing
 - **AWS Data Engineering Certification**
 
 ---
-
-## Publications & Talks
-
-If applicable, add any publications or talks here, or leave as future expansion.
-
----
-
-This structure highlights your skills, work experience, and projects clearly and professionally. You can enhance it with images, links, and additional sections as you see fit. Let me know if you need further customization!
