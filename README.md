@@ -1,4 +1,4 @@
-# Venkata Sai Krishna Abbaraju | Data Scientist
+# Venkata Sai Krishna Abbaraju | Data Scientist | Data Engineer
 
 [LinkedIn](https://www.linkedin.com/in/vska/) | [GitHub](https://github.com/avsk80) | abbar005@umn.edu | Minneapolis, MN
 
@@ -48,15 +48,15 @@ B.Tech. in Computer Science and Engineering (GPA: 8.72/10) | *Jun 2015 - May 201
 ## Featured Projects
 
 ### Credit Fraud Detection using ML  
-[GitHub Repository](https://github.com/avsk80/Olist-Customer-segmentation)
+[GitHub Repository](https://github.com/avsk80/credit-fraud-detection)
 
-Created a segmentation model using RFM metrics and K-Means, achieving a silhouette score of 0.57. Built and managed a Postgres database to support the EDA and downstream modelling tasks.
+Created a segmentation model using RFM metrics and K-Means, achieving a silhouette score of 0.57. Built and managed a Postgres database to support the EDA and downstream modeling tasks.
 
 - **Tools**: Python, SQL, K-Means, Postgres
 - **Outcome**: Enabled targeted customer engagement strategies based on customer value segmentation.
 
 ### Obesity Classification using ML  
-[GitHub Repository](https://github.com/avsk80/Olist-Customer-segmentation)
+[GitHub Repository](https://github.com/avsk80/Obesity-classification)
 
 Created a segmentation model using RFM metrics and K-Means, achieving a silhouette score of 0.57. Built and managed a Postgres database to support the EDA and downstream modelling tasks.
 
