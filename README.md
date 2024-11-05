@@ -59,7 +59,7 @@ Developed a high-performing LightGBM fraud detection model with 93% ROC-AUC, lev
 - **Tools/ Techniques**: Python, Sklearn, LightGBM, XGBoost, Chi-Squared, ANOVA, PCA, SHAP
 - **Outcome**: Built a reliable and interpretable model to detect fraud cases and take actionable decisions
 
-### Obesity Classification using ML
+### Predictive modeling for Obesity classification based on lifestyle and dietary patterns
 [GitHub Repository](https://github.com/avsk80/Obesity-classification)
 
 Built a multi-class classification model to predict if a patient is obese or not using demographic, lifestyle, and health data, achieving a weighted F1 of 90% through scaling, and model optimization. 
