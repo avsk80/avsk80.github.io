@@ -16,7 +16,9 @@
 
 **University of Minnesota, Twin Cities**  
 M.S. Data Science (GPA: 3.85) | *Sep 2022 - Expected Dec 2024*  
+
 Relevant Coursework: Big Data Analytics, Statistical Machine Learning, Data Mining, NLP, Deep Learning, Applied Regression Analysis  
+
 Capstone Project: Data quality improvement for manufacturing datasets using ML (collaborated with [Advisory Aerospace LLC](https://www.factory-twin.com/))
 
 **SRM Institute of Science and Technology**  
@@ -31,7 +33,7 @@ B.Tech. in Computer Science and Engineering (GPA: 8.72/10) | *Jun 2015 - May 201
 
 - **TruTax Project**:
 - Implemented a hybrid solution using association rules, K-Means, and BERT to solve incorrect mapping of Lowe’s item to tax code mapping
-- Impact: The solution was 90% accurate and saved 30+ hours of manual efforts for the finance team 
+- Impact: The solution was 90% accurate and saved 20+ hours of manual efforts per week for the finance team 
 
 - **Competitive Intelligence**:
 - Developed ETL pipelines and Data Warehouse schema in Hive to ingest daily scarped competitor price data
@@ -50,25 +52,25 @@ B.Tech. in Computer Science and Engineering (GPA: 8.72/10) | *Jun 2015 - May 201
 ### Credit Fraud Detection using ML  
 [GitHub Repository](https://github.com/avsk80/credit-fraud-detection)
 
-Created a segmentation model using RFM metrics and K-Means, achieving a silhouette score of 0.57. Built and managed a Postgres database to support the EDA and downstream modeling tasks.
+Created 
 
-- **Tools**: Python, SQL, K-Means, Postgres
-- **Outcome**: Enabled targeted customer engagement strategies based on customer value segmentation.
+- **Tools/ Techniques**: 
+- **Outcome**: 
 
 ### Obesity Classification using ML  
 [GitHub Repository](https://github.com/avsk80/Obesity-classification)
 
-Created a segmentation model using RFM metrics and K-Means, achieving a silhouette score of 0.57. Built and managed a Postgres database to support the EDA and downstream modelling tasks.
+Created 
 
-- **Tools**: Python, SQL, K-Means, Postgres
-- **Outcome**: Enabled targeted customer engagement strategies based on customer value segmentation.
+- **Tools/ Techniques**: 
+- **Outcome**: 
 
 ### Value-Based Customer Segmentation  
 [GitHub Repository](https://github.com/avsk80/Olist-Customer-segmentation)
 
 Created a segmentation model using RFM metrics and K-Means, achieving a silhouette score of 0.57. Built and managed a Postgres database to support the EDA and downstream modelling tasks.
 
-- **Tools**: Python, SQL, K-Means, Postgres
+- **Tools/ Techniques**: Python, SQL, K-Means, Postgres
 - **Outcome**: Enabled targeted customer engagement strategies based on customer value segmentation.
 
 ### Real-Time Accident Severity Prediction and Model Monitoring  
@@ -76,32 +78,32 @@ Created a segmentation model using RFM metrics and K-Means, achieving a silhouet
 
 Developed a streaming pipeline via Kafka to predict accident severity, storing results in Hive. Experimented with various models and achieved an F1 score of 0.77, implementing MLflow for experiment tracking and Evidently AI for data drift detection.
 
-- **Tools**: PySpark, Logistic Regression, Gradient Boost, Random Forest, MLflow, Kafka
+- **Tools/ Techniques**: PySpark, Logistic Regression, Gradient Boost, Random Forest, MLflow, Kafka
 - **Impact**: Improved model monitoring and retraining approaches in real-time accident prediction pipelines.
 
 ### Credit Risk Stratification using ML  
-[GitHub Repository](https://github.com/avsk80/Olist-Customer-segmentation)
+[GitHub Repository](https://github.com/avsk80/credit-risk-assessment)
 
 Created a segmentation model using RFM metrics and K-Means, achieving a silhouette score of 0.57. Built and managed a Postgres database to support the EDA and downstream modelling tasks.
 
-- **Tools**: Python, SQL, K-Means, Postgres
-- **Outcome**: Enabled targeted customer engagement strategies based on customer value segmentation.
+- **Tools/ Techniques**: Python, 
+- **Outcome**: 
 
 ### Topic Classification Using Transformers  
 [GitHub Repository](https://github.com/avsk80/Topic-Classification-using-Transformers)
 
-Used BERT and Roberta to classify topics in Yahoo Answers, achieving 93% accuracy. Implemented SHAP for interpretability, offering insights into model predictions.
+Used BERT and Roberta to classify topics in Yahoo Answers, achieving 93% accuracy. Implemented Captum for interpretability, offering insights into model predictions.
 
-- **Tools**: Transformers (BERT, Roberta), SHAP, Python
-- **Key Results**: High accuracy with enhanced model interpretability for NLP classification tasks.
+- **Tools/ Techniques**: Transformers (BERT, Roberta), transformers_interpret, Pytorch
+- **Key Results**: High accuracy with enhanced model interpretability for NLP topic classification tasks.
 
 ### NYC Taxi Trip Duration Prediction  
 [GitHub Repository](https://github.com/avsk80/nyc-taxi-trip-duration-prediction)
 
 Built an end-to-end model predicting taxi trip durations, incorporating data ingestion, feature engineering, and model deployment with a MAPE of ~12%.
 
-- **Tools**: Python, Random Forest, Feature Engineering, API Deployment
-- **Value**: Demonstrated expertise in creating scalable ML workflows.
+- **Tools/ Techniques**: Python, Random Forest, XGBoost, DVC, MLFlow, Docker, Fast API Deployment
+- **Value**: Demonstrated expertise in creating end-to-end ML workflows.
 
 ---
 
