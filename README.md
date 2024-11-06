@@ -86,10 +86,10 @@ Developed a streaming pipeline using Kafka as the source and Hive as the sink to
 ### Credit Risk Stratification using ML  
 [GitHub Repository](https://github.com/avsk80/credit-risk-assessment)
 
-Created a multi-class credit risk classification model using Statistical ML techniques, 
+Created a multi-class credit risk classification model using Statistical ML techniques, and leveraged a variety of feature engineering techniques yielding a weighted F1 of 0.85.
 
-- **Tools/ Techniques**: Python, Logistic Regression, LDA, XGBoost, Random Forest
-- **Outcome**: Provided a means to the businesses to assess if a customer is risky or not based on model-predicted probabilities
+- **Tools/ Techniques**: Python, Logistic Regression, LDA, XGBoost, Random Forest, Chi-Squared, 
+- **Outcome**: Provided a means to the businesses to assess if a customer is risky or not based on model-predicted probabilities and reduced false negatives
 
 ### Topic Classification Using Transformers  
 [GitHub Repository](https://github.com/avsk80/Topic-Classification-using-Transformers)
