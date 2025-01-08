@@ -1,4 +1,4 @@
-# Venkata Sai Krishna Abbaraju | Data Scientist | Data Engineer
+# Venkata Sai Krishna Abbaraju | Data Engineer| Data Scientist | 
 
 [LinkedIn](https://www.linkedin.com/in/vska/) | [GitHub](https://github.com/avsk80) | abbar005@umn.edu | Minneapolis, MN
 
@@ -7,8 +7,10 @@
 ### Technical Skills
 - **Core Competencies**: Data Visualization, EDA, Hypothesis Testing, Linear, and Logistic Regression, Supervised, and Unsupervised ML Algorithms, ARIMA, Association Rule Mining, NLP, ANN, CNN, LSTM
 - **Programming Languages**: Python, SQL, Scala, Shell Scripting
-- **Tools & Frameworks**: PyTorch, Scikit-Learn, Pandas, Numpy, PowerBI, Seaborn, Git, Docker, Jenkins, MLFlow, DVC
-- **Big Data Stack**: Hadoop, PySpark (SQL, Structured Streaming, ML), Postgres, Cassandra, Kafka, Hive, HBase, Sqoop, Oozie, Airflow, AWS (S3, EC2, Lambda, EMR, Kinesis, SNS, SQS, Glue, Redshift, CloudWatch), DBT, Delta Lake, Databricks, Data Warehouse Modeling
+- **Tools & Frameworks**: PyTorch, Scikit-Learn, Pandas, Numpy, Tableau, Seaborn, Git, Docker, Jenkins, MLFlow, DVC
+- **Big Data Stack**: Hadoop, PySpark (SQL, Structured Streaming, ML), Postgres, Cassandra, Kafka, Hive, HBase, Sqoop, Oozie, Airflow, DBT, Delta Lake, Data Warehouse Modeling
+- **Azure Cloud**: Datalake, Data Factory, Databricks, Synapse Analytics, SQL DB, Eventhub, DevOps
+- **AWS Cloud**: S3, EC2, Lambda, EMR, Kinesis, SNS, SQS, Glue, Redshift, CloudWatch
 
 ---
 
@@ -58,6 +60,14 @@ Developed a high-performing LightGBM fraud detection model with 93% ROC-AUC, lev
 
 - **Tools/ Techniques**: Python, Sklearn, LightGBM, XGBoost, Chi-Squared, ANOVA, PCA, SHAP
 - **Outcome**: Built a reliable and interpretable model to detect fraud cases and take actionable decisions
+
+### Healthcare Revenue Cycle Management Analytics in Azure Cloud
+[GitHub Repository](https://github.com/avsk80/rcm_data_engineering)
+
+Developed an end-to-end RCM big data pipeline in Azure Cloud that gathers data from multiple data sources like SQL DB, CSV, APIs and built a Data Warehouse schema to support downstream analytics and business metrics 
+
+- **Tools/ Techniques**: Python, Azure Services - Azure SQL DB, Data lake, Databricks, Data Factory, Key Vault
+- **Outcome**: Built an efficient, generic, metadata-driven, and scalable big data pipeline that streamlines the data flow for analytics purposes 
 
 ### Predictive modeling for Obesity classification based on lifestyle and dietary patterns
 [GitHub Repository](https://github.com/avsk80/Obesity-classification)
