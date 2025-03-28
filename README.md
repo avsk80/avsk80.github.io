@@ -121,8 +121,8 @@ Built an end-to-end model predicting taxi trip durations, incorporating data ing
 
 ## Certifications
 
-- **Apache Spark 3 Certification (https://github.com/avsk80/avsk80.github.io/blob/main/pyspark-cert.pdf)**
-- **Azure Databricks Certification (https://github.com/avsk80/avsk80.github.io/blob/main/azure-DB-cert.pdf)**
-- **Microsoft Azure Data Engineer (https://github.com/avsk80/avsk80.github.io/blob/main/AZ-DE-CERTIFICATE.pdf)**
+- **[Apache Spark 3 Certification](https://github.com/avsk80/avsk80.github.io/blob/main/pyspark-cert.pdf)**
+- **[Azure Databricks Certification](https://github.com/avsk80/avsk80.github.io/blob/main/azure-DB-cert.pdf)**
+- **[Microsoft Azure Data Engineer](https://github.com/avsk80/avsk80.github.io/blob/main/AZ-DE-CERTIFICATE.pdf)**
 
 ---
