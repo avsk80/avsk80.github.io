@@ -8,7 +8,7 @@
 - **Core Competencies**: Data Visualization, EDA, Hypothesis Testing, Linear, and Logistic Regression, Supervised, and Unsupervised ML Algorithms, ARIMA, Association Rule Mining, NLP, ANN, CNN, LSTM
 - **Programming Languages**: Python, SQL, Scala, Shell Scripting
 - **Tools & Frameworks**: PyTorch, Scikit-Learn, Pandas, Numpy, Tableau, Seaborn, Git, Docker, Jenkins, MLFlow, DVC
-- **Big Data Stack**: Hadoop, PySpark (SQL, Structured Streaming, ML), Postgres, Cassandra, Kafka, Hive, HBase, Sqoop, Oozie, Airflow, DBT, Delta Lake, Data Warehouse Modeling
+- **Big Data Stack**: Hadoop, Pyspark (SQL, Structured Streaming, ML), Postgres, Cassandra, Kafka, Hive, Airflow, DBT, Delta Lake
 - **Azure Cloud**: Datalake, Data Factory, Databricks, Synapse Analytics, SQL DB, Eventhub, DevOps
 - **AWS Cloud**: S3, EC2, Lambda, EMR, Kinesis, SNS, SQS, Glue, Redshift, CloudWatch
 
@@ -21,8 +21,8 @@ M.S. Data Science (GPA: 3.85) | *Sep 2022 - Expected Dec 2024*
 
 **Relevant Coursework:** Big Data Analytics, Statistical Machine Learning, Data Mining, NLP, Deep Learning, Applied Regression Analysis  
 
-**Capstone Project:**  Reviving lost data in manufacturing datasets using Machine Learning (Worked under Professor Jaideep Srivastava and collaborated with [Advisory Aerospace LLC](https://www.factory-twin.com/))
-- Worked on improving the data quality of a factory database, by implementing Statistical and ML techniques to impute Job Lead Time, Part Arrival Time, and Standard Time for a part
+**Capstone Project:**  Reviving lost data in manufacturing datasets using Machine Learning (Worked under Professor Jaideep Srivastava)
+- Collaborated with Advisory Aerospace LLC [Advisory Aerospace LLC](https://www.factory-twin.com/) to improve data quality in factory ERP datasets
 - Achieved a MAPE of around ~27% using Ensembles-Random Forest and XGBoost
 
 **SRM Institute of Science and Technology**  
@@ -40,8 +40,8 @@ B.Tech. in Computer Science and Engineering (GPA: 8.72/10) | *Jun 2015 - May 201
 - Impact: The solution was 90% accurate and saved 20+ hours of manual efforts per week for the finance team 
 
 - **Competitive Intelligence**:
-- Developed ETL pipelines and Data Warehouse schema in Hive to ingest daily scarped competitor price data
-- Worked with product manager, and business analysts to convert business needs into KPI metrics using SQL and exported the data for Dashboarding
+- Developed ETL pipelines and Data Warehouse schema in Hive and BigQuery to ingest daily scarped competitor price data
+- Worked with product manager, and business analysts to convert business needs into KPI metrics using Presto and exported the data for Dashboarding
 - Impact: improved sales by 85% on 200 high-value items, reducing analysts' workload by 10+ hours weekly
 - Achievement: Received **"SPOT"** award in Jan 2021, for delivering results well ahead of the promised timeline
 
@@ -66,7 +66,7 @@ Developed a high-performing LightGBM fraud detection model with 93% ROC-AUC, lev
 
 Developed an end-to-end RCM big data pipeline in Azure Cloud that gathers data from multiple data sources like SQL DB, CSV, APIs and built a Data Warehouse schema to support downstream analytics and business metrics 
 
-- **Tools/ Techniques**: Python, Azure Services - Azure SQL DB, Data lake, Databricks, Data Factory, Key Vault
+- **Tools/ Techniques**: Python, Azure Services - Azure SQL DB, Synapse, Data lake, Databricks, Data Factory, Key Vault
 - **Outcome**: Built an efficient, generic, metadata-driven, and scalable big data pipeline that streamlines the data flow for analytics purposes 
 
 ### Predictive modeling for Obesity classification based on lifestyle and dietary patterns
@@ -121,8 +121,8 @@ Built an end-to-end model predicting taxi trip durations, incorporating data ing
 
 ## Certifications
 
-- **Apache Spark 3 Certification**
-- **Machine Learning Masters**
-- **AWS Data Engineering Certification**
+- **Apache Spark 3 Certification (https://github.com/avsk80/avsk80.github.io/blob/main/pyspark-cert.pdf)**
+- **Azure Databricks Certification (https://github.com/avsk80/avsk80.github.io/blob/main/azure-DB-cert.pdf)**
+- **Microsoft Azure Data Engineer (https://github.com/avsk80/avsk80.github.io/blob/main/AZ-DE-CERTIFICATE.pdf)**
 
 ---
