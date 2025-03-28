@@ -5,11 +5,11 @@
 ---
 
 ### Technical Skills
-- **Core Competencies**: Data Visualization, EDA, Hypothesis Testing, Linear, and Logistic Regression, Supervised, and Unsupervised ML Algorithms, ARIMA, Association Rule Mining, NLP, ANN, CNN, LSTM
 - **Programming Languages**: Python, SQL, Scala, Shell Scripting
 - **Tools & Frameworks**: PyTorch, Scikit-Learn, Pandas, Numpy, Tableau, Seaborn, Git, Docker, Jenkins, MLFlow, DVC
 - **Big Data Stack**: Hadoop, Pyspark (SQL, Structured Streaming, ML), Postgres, Cassandra, Kafka, Hive, Airflow, DBT, Delta Lake
 - **Azure Cloud**: Datalake, Data Factory, Databricks, Synapse Analytics, SQL DB, Eventhub, DevOps
+- **ML and Analytics**: Data Visualization, EDA, Hypothesis Testing, Linear, and Logistic Regression, Supervised, and Unsupervised ML Algorithms, ARIMA, Association Rule Mining, NLP, ANN, CNN, LSTM
 - **AWS Cloud**: S3, EC2, Lambda, EMR, Kinesis, SNS, SQS, Glue, Redshift, CloudWatch
 
 ---
