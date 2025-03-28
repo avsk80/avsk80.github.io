@@ -22,7 +22,7 @@ M.S. Data Science (GPA: 3.85) | *Sep 2022 - Expected Dec 2024*
 **Relevant Coursework:** Big Data Analytics, Statistical Machine Learning, Data Mining, NLP, Deep Learning, Applied Regression Analysis  
 
 **Capstone Project:**  Reviving lost data in manufacturing datasets using Machine Learning (Worked under Professor Jaideep Srivastava)
-- Collaborated with Advisory Aerospace LLC [Advisory Aerospace LLC](https://www.factory-twin.com/) to improve data quality in factory ERP datasets
+- Collaborated with [Advisory Aerospace LLC](https://www.factory-twin.com/) to improve data quality in factory ERP datasets
 - Achieved a MAPE of around ~27% using Ensembles-Random Forest and XGBoost
 
 **SRM Institute of Science and Technology**  
