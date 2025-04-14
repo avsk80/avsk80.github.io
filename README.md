@@ -17,7 +17,7 @@
 ## Education
 
 **University of Minnesota, Twin Cities**  
-M.S. Data Science (GPA: 3.85) | *Sep 2022 - Expected Dec 2024*  
+M.S. Data Science (GPA: 3.85) | *Sep 2022 - Feb 2025*  
 
 **Relevant Coursework:** Big Data Analytics, Statistical Machine Learning, Data Mining, NLP, Deep Learning, Applied Regression Analysis  
 
