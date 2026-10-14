@@ -1,6 +1,6 @@
-# Venkata Sai Krishna Abbaraju | Data Engineer| Data Scientist | 
+# Venkata Sai Krishna Abbaraju | Data Engineer| AI Engineer | 
 
-[LinkedIn](https://www.linkedin.com/in/vska/) | [GitHub](https://github.com/avsk80) | abbar005@umn.edu | Minneapolis, MN
+[GitHub](https://github.com/avsk80) | abbar005@umn.edu | Minneapolis, MN
 
 ---
 
@@ -23,7 +23,7 @@ M.S. Data Science (GPA: 3.85) | *Sep 2022 - Feb 2025*
 
 **Capstone Project:**  Reviving lost data in manufacturing datasets using Machine Learning (Worked under Professor Jaideep Srivastava)
 - Collaborated with [Advisory Aerospace LLC](https://www.factory-twin.com/) to improve data quality in factory ERP datasets
-- Achieved a MAPE of around ~27% using Ensembles-Random Forest and XGBoost
+- Achieved a MAPE of around ~21% using Ensembles like Random Forest
 
 **SRM Institute of Science and Technology**  
 B.Tech. in Computer Science and Engineering (GPA: 8.72/10) | *Jun 2015 - May 2019*
@@ -31,6 +31,13 @@ B.Tech. in Computer Science and Engineering (GPA: 8.72/10) | *Jun 2015 - May 201
 ---
 
 ## Work Experience
+**Data Engineer @ M2**  
+*Edison, NJ | Apr 2026 - Current*
+- Still Working
+
+**Reseracher @ IHI, UMN**  
+*Minneapolis, MN | Apr 2025 - Apr 2026*
+- Streamlined the ingestion, analysis, visualization phases, and performed statistical tests on complex, high-throughput GeoMx spatial omics senescence cells datasets in human liver [NIH link](https://reporter.nih.gov/project-details/10385161).
 
 **Data Engineer @ Lowe’s**  
 *Bangalore, India | Jul 2019 - Aug 2022*
@@ -53,13 +60,13 @@ B.Tech. in Computer Science and Engineering (GPA: 8.72/10) | *Jun 2015 - May 201
 
 ## Featured Projects
 
-### Credit Fraud Detection using ML
-[GitHub Repository](https://github.com/avsk80/credit-fraud-detection)
+### Real-Time Accident Severity Prediction and Model Monitoring  
+[GitHub Repository](https://github.com/avsk80/Real-Time-Accident-Severity)
 
-Developed a high-performing LightGBM fraud detection model with 93% ROC-AUC, leveraging PCA, calibrated probabilities, and SHAP analysis for interpretability and reliable fraud predictions on imbalanced data. 
+Developed a streaming pipeline using Kafka as the source and Hive as the sink to predict accident severity. Experimented with various models and achieved an F1 score of 0.77 with Random Forest. Integrated MLflow for experiment tracking and Evidently AI for data drift detection.
 
-- **Tools/ Techniques**: Python, Sklearn, LightGBM, XGBoost, Chi-Squared, ANOVA, PCA, SHAP
-- **Outcome**: Built a reliable and interpretable model to detect fraud cases and take actionable decisions
+- **Tools/ Techniques**: PySpark, Logistic Regression, Gradient Boost, Random Forest, MLflow, Kafka
+- **Impact**: Improved model monitoring and retraining approaches in real-time accident prediction pipeline.
 
 ### Healthcare Revenue Cycle Management Analytics in Azure Cloud
 [GitHub Repository](https://github.com/avsk80/rcm_data_engineering)
@@ -85,13 +92,13 @@ Created a segmentation model using RFM metrics and K-Means, achieving a silhouet
 - **Tools/ Techniques**: Python, SQL, Sklearn, K-Means, RFM analysis, Postgres
 - **Outcome**: Enabled targeted customer engagement strategies based on customer value segmentation.
 
-### Real-Time Accident Severity Prediction and Model Monitoring  
-[GitHub Repository](https://github.com/avsk80/Real-Time-Accident-Severity)
+### Credit Fraud Detection using ML
+[GitHub Repository](https://github.com/avsk80/credit-fraud-detection)
 
-Developed a streaming pipeline using Kafka as the source and Hive as the sink to predict accident severity. Experimented with various models and achieved an F1 score of 0.77 with Random Forest. Integrated MLflow for experiment tracking and Evidently AI for data drift detection.
+Developed a high-performing LightGBM fraud detection model with 93% ROC-AUC, leveraging PCA, calibrated probabilities, and SHAP analysis for interpretability and reliable fraud predictions on imbalanced data. 
 
-- **Tools/ Techniques**: PySpark, Logistic Regression, Gradient Boost, Random Forest, MLflow, Kafka
-- **Impact**: Improved model monitoring and retraining approaches in real-time accident prediction pipeline.
+- **Tools/ Techniques**: Python, Sklearn, LightGBM, XGBoost, Chi-Squared, ANOVA, PCA, SHAP
+- **Outcome**: Built a reliable and interpretable model to detect fraud cases and take actionable decisions
 
 ### Credit Risk Stratification using ML  
 [GitHub Repository](https://github.com/avsk80/credit-risk-assessment)
@@ -122,7 +129,7 @@ Built an end-to-end model predicting taxi trip durations, incorporating data ing
 ## Certifications
 
 - **[Apache Spark 3 Certification](https://github.com/avsk80/avsk80.github.io/blob/main/pyspark-cert.pdf)**
-- **[Azure Databricks Certification](https://github.com/avsk80/avsk80.github.io/blob/main/azure-DB-cert.pdf)**
+- **[Databricks Certification](https://github.com/avsk80/avsk80.github.io/blob/main/azure-DB-cert.pdf)**
 - **[Microsoft Azure Data Engineer](https://github.com/avsk80/avsk80.github.io/blob/main/AZ-DE-CERTIFICATE.pdf)**
 
 ---
